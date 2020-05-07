@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="MMO/ResourceUpdatePermission" base_version_id="2000170" export_version="2">
+  <phrase title="permission.resource_mmo_canUpdateAnyResource" addon_id="MMO/ResourceUpdatePermission" version_id="2000170" version_string="2.0.1"><![CDATA[Может обновлять любые ресурсы]]></phrase>
+</language>
